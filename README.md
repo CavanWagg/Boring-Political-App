@@ -34,14 +34,19 @@ This project lets the user search for a current issue that they want to learn mo
 
 ## Installation
 
-* Copy the remote URL of this repo
-![alt text](https://lh3.googleusercontent.com/DIjmHnofZp2YCO6VsG5mdSe-uHXwAbO9m7XdVEMSZH8nwhNZFXYUiOZiloiO2uPlKEQQN2Cbc30CR_CXMXKOj_gDOnlydnZOJS_G4a4145iHxHPnZZqqEXR0ML2NnIK88i5LHJGFXQ=w2400)
-
-* Open Git Bash
-* cd Desktop
-* 'git clone + URL'
-![alt text](https://lh3.googleusercontent.com/7pbUSRtNFW88br-mFMZSH0uRVYR8ftJbhTvg8NqdggxJC6Rbvn-ep86q2EN1HXJhHJCOEtk25NapszE7hjPjs4Sbfpv001mGVsaYtjBOPld-_3wtY9Osb_bE_KZnfn2vZYndoM-IZQ=w2400)
-
+To run the application locally, first clone this repository 
+```javascript
+git clone https://github.com/CavanWagg/Boring-Political-App.git
+```
+Next, move into the project folder and install the dependencies
+```javascript
+cd Boring-Political-App
+npm install
+```
+Finally, run the server locally
+```javascript
+node server
+```
 ## Functionality
 * User searches for topic
 * User can drag and drop bills to learn more about them
