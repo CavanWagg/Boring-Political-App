@@ -1,5 +1,7 @@
 # Boring Political Project!
 
+Access the app on Heroku [here](https://boringpoliticalapp.herokuapp.com/)
+
 This project lets the user search for a current issue that they want to learn more about. The user is given information about upcoming bills relevant to their search and contact information for their state's congress members.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
