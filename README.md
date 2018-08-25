@@ -2,6 +2,25 @@
 
 **Access the app on Heroku [here](https://boringpoliticalapp.herokuapp.com/)**
 
+*HomePage*
+
+![Screenshot](https://cl.ly/5db314a49720/Image%2525202018-08-25%252520at%25252010.30.25%252520AM.png)
+
+
+
+*List of Bills, dragging a bill over will display further information*
+
+
+
+![Screenshot](https://cl.ly/7e178183289c/Image%2525202018-08-25%252520at%25252010.31.11%252520AM.png)
+
+
+
+*Local Representative page, found using Geolocation API, or manual address entry*
+
+
+
+![Screenshot](https://cl.ly/dd1911b8bb88/Image%2525202018-08-25%252520at%25252010.33.16%252520AM.png)
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
